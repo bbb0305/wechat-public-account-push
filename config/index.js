@@ -34,7 +34,7 @@ export const config = {
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2007-07-07",
+    LOVE_DATE: "2018-07-07",
     // 结婚纪念日
     MARRY_DATE: "2029-07-07",
 
@@ -43,7 +43,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: "小说"
+    LITERARY_PREFERENCE: "原创"
 
 
     }

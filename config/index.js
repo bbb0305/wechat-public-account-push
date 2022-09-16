@@ -21,7 +21,7 @@ export const config = {
     // 所在省份
     PROVINCE: "浙江",
     // 所在城市
-    CITY: "台州",
+    CITY: "温州",
 
     /** 生日相关 */
 
